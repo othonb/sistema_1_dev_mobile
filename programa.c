@@ -16,7 +16,6 @@ int subtraiDoisInteiros(int a, int b) {
   return a - b;
 }
 
-
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
@@ -28,4 +27,5 @@ int main(int argc, char **argv) {
   printf("Subtrai(%d, %d) = %d\n", 2, 3, subtraiDoisInteiros(2, 3));
 
   return 0;
+
 }
